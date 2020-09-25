@@ -11,7 +11,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Projects
 
 Visual Basic 
-1. Citi Bank App [https://github.com/eiyescas/Prototype-Design](url)
+-[Citi Bank App](https://github.com/eiyescas/Prototype-Design)
+- There are other smaller projects on [my github account](https://github.com/eiyescas)
+
+Java
+-[Cookbook](https://github.com/eiyescas/CookBook)
+- There are other smaller projects on [my github account](https://github.com/eiyescas)
+
+Raspberry Pi
+I programmed a Raspberry Pi while connected to a regular aux speaker and transformed it to a bluetooth device. The device connects to any spotify account 
+once online. It was all completed through the Linux terminal on the Raspberry Pi. 
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
