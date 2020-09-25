@@ -1,10 +1,18 @@
 ## Esmeralda Iyescas
 
+Hello! I am a Junior at Florida International Univeristy pursuing a Bachelor of Science in Information Technology. 
+Born and raised in Miami, Florida 
+Fluent in French/English/Spanish 
+
 You can use the [editor on GitHub](https://github.com/eiyescas/eiyescas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects
+
+Visual Basic 
+1. Citi Bank App [https://github.com/eiyescas/Prototype-Design](url)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
